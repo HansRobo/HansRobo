@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=27chs0pcxw2y3e3lpkl6ynyeg&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=27chs0pcxw2y3e3lpkl6ynyeg&redirect=true)
+<!-- 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=27chs0pcxw2y3e3lpkl6ynyeg&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=27chs0pcxw2y3e3lpkl6ynyeg&redirect=true) -->
